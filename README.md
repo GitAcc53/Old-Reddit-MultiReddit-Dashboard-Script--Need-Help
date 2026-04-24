@@ -1,7 +1,7 @@
-Script for old.reddit.com to check 100 subs on the same page at the same time by changing the MultiReddit page.
+Script for old.reddit.com to check 100 subs on the same page at the same time by changing the MultiReddit page design.
 You can create a MultiReddit from the left pannel on old.reddit.com
 
-Gemini Pro wrote it.
+Gemini Pro wrote the script.
 
 I am looking for someone to fix it. 
 
